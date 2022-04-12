@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RomanRenders
-- 👀 I’m interested in ...front end development. I love to always learning 
-- 🌱 I’m currently learning ...algorithms
+- 👀 I’m interested in ...javascript and front end development.
+- 🌱 I’m currently learning ...algorithms and time complexity
 - 💞️ I’m looking to collaborate on ...any small projects lol
 - 📫 How to reach me ... email: ronnoverro@gmail.com
 
