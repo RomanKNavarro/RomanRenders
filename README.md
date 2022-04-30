@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RomanRenders
 - 👀 I’m interested in ...javascript and front end development.
-- 🌱 I’m currently learning ...traversing binary trees programmatically
+- 🌱 I’m currently learning ...big o and binary trees
 - 💞️ I’m looking to collaborate on ...small projects
 - 📫 How to reach me ... email: ronnoverro@gmail.com
 
